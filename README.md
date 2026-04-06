@@ -52,7 +52,6 @@ To follow industry standards for Web3 development, the following security measur
 The contracts were successfully deployed to the **Sepolia Testnet** using Hardhat Ignition.
 
 https://sepolia.etherscan.io/tx/0x06c02f708a274891d0b177a513a671dc99351376269c339a72511cd17a5bbe74
-
 https://sepolia.etherscan.io/tx/0x453b8efce94cbb42484b81990659ce5f11362a19ef32fe13e7a1de94cb381cde
 -----
 
